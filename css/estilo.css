@@ -1,0 +1,99 @@
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body{
+       /* background-color: rgb(245, 245, 245); background-image: url(https://papelnaparede.com.br/17454-large_default/Papel-de-Parede-Adesivo-Degrade-Azul-e-Branco-N05134.jpg);*/
+        margin-right: 50px;
+    header{
+        background-color: aliceblue;background-image: url(https://www.pontoxtecidos.com.br/static/567/sku/155904889647122.jpg);
+        padding-left: 350px; 
+        margin-bottom: 20px;
+        padding-right: 200px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    li{
+        display: inline;
+        margin-right: 15px;
+    }
+    main{
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    #info{
+        background-color: antiquewhite; background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1QKoEh8DSMFmdSQjN9qhUAJh4tm2cPakAwg&s);
+        padding-left: 250px;
+        margin-left: 150px;
+        margin-right: 100px;
+        border-radius: 20px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    #info p {
+        padding-left: 50px;
+
+    }
+    #info a {
+        margin-left: 100px;
+    }
+    #programa{
+        background-color: rgb(224, 224, 224);
+        padding-left: 80px;
+        padding-top: 15px;
+        margin-top: 15px;
+        border-radius: 20px;
+        padding-bottom: 15px;
+    }
+    #sobre{
+        padding-left: 83px;
+        background-color:rgb(224, 224, 224) ;
+        margin-top: 15px;
+        border-radius: 20px;
+        padding-bottom: 10px;
+    }
+    #palestrantes{
+        background-color: rgb(224, 224, 224);
+        margin-top: 15px;
+        border-radius: 15px;
+        padding-left: 80px;
+        padding-bottom: 10px;
+       
+    
+    }
+    #sobre h2 {
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 5px;
+    }
+    #palestrantes article {
+        text-align: center;
+        padding-top: 15px;
+        display: inline-block;
+        }
+    #programa h2{
+        text-align: center;
+        padding-bottom: 15px;
+    }
+    #palestrantes h2{
+        text-align: center;
+        
+    }
+    footer{
+        background-color:rgb(5, 58, 5);
+        margin-top: 10px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    footer p{
+        color: aliceblue;
+    }    
+}
+
+
+
+   
+        
